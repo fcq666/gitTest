@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("传奇6666666666");
         System.out.println("55555555555555");
         System.out.println("传奇7777777777777777");
+        System.out.println("秀儿");
     }
 }
